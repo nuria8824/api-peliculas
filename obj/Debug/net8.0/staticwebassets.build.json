@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W1HBh3lcE6F0H9hugXfXXEG9kbg18TX9Rq2Gidn38Eo=",
+  "Source": "api-peliculas",
+  "BasePath": "_content/api-peliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
